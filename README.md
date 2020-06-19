@@ -1,2 +1,2 @@
 # Face-Mask-Detection
-Face Mask Detection using OpenCV
+Real-Time Face Mask Detection using OpenCV
